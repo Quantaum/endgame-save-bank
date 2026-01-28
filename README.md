@@ -5,7 +5,7 @@
 
 AD: Endgame Save Bank is a centralized place to store save files for the mod "Antimatter Dimensions: Endgame".
 
-The website can be found here: [Link to Save Bank](https://buck4437.github.io/save-bank/)
+The website can be found here: [Link to Save Bank](https://quantaum.github.io/endgame-save-bank/)
 
 ## Preface
 This project is based on the [save archive](https://docs.google.com/document/d/1wkUvOwlFvTMCiTPvAjVNyuaILNRE6zoXms2S8R2RtA8/edit) created by earthernsence.

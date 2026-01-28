@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Buck4437/save-bank.git"
+    "url": "git+https://quantaum.github.io/endgame-save-bank.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Buck4437/save-bank/issues"
+    "url": "https://quantaum.github.io/endgame-save-bank/issues"
   },
-  "homepage": "https://github.com/Buck4437/save-bank#readme",
+  "homepage": "https://quantaum.github.io/endgame-save-bank#readme",
   "devDependencies": {
     "eslint": "^8.35.0",
     "eslint-plugin-vue": "^9.9.0",
