@@ -54,7 +54,7 @@ class File {
 
         zip.generateAsync({ type: "blob" })
             .then(blob => {
-                saveAs(blob, "AD Save Bank - All Saves.zip");
+                saveAs(blob, "AD Endgame Save Bank - All Saves.zip");
             });
     }
 

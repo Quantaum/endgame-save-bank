@@ -6,7 +6,7 @@ Vue.component("top-bar", {
     <header>
         <menu-button @toggle-menu="$emit('menu')"></menu-button>
         <div class="title">
-            AD Save Bank
+            AD: Endgame Save Bank
         </div>
         <div class="about">
             <span class="version">{{version}}</span>

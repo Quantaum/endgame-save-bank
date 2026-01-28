@@ -1,9 +1,9 @@
-# AD Save Bank
+# AD: Endgame Save Bank
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/c4ecfb67fb474461be82697169379392)](https://app.codacy.com/gh/Buck4437/save-bank?utm_source=github.com&utm_medium=referral&utm_content=Buck4437/save-bank&utm_campaign=Badge_Grade_Settings)
 [![CodeFactor](https://www.codefactor.io/repository/github/buck4437/save-bank/badge)](https://www.codefactor.io/repository/github/buck4437/save-bank)
 
-AD Save Bank is a centralized place to store save files for the game "Antimatter Dimensions".
+AD: Endgame Save Bank is a centralized place to store save files for the mod "Antimatter Dimensions: Endgame".
 
 The website can be found here: [Link to Save Bank](https://buck4437.github.io/save-bank/)
 
