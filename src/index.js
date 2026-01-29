@@ -1,4 +1,5 @@
 import { endgame } from "./endgame";
+import { alpha } from "./alpha";
 
 import CategoryGrouped from "./classes/CategoryGrouped";
 import File from "./classes/File";
