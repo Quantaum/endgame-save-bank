@@ -184,6 +184,20 @@
     color: var(--background);
 }
 
+.category-theme-alpha {
+    border-color: var(--color-alpha);
+    color: var(--color-alpha);
+}
+
+.category-theme-alpha-background {
+    background-color: var(--color-alpha-background);
+}
+
+.category-theme-alpha.is-active {
+    background-color: var(--color-alpha);
+    color: var(--background);
+}
+
 .category-theme-default {
     border-color: var(--color-default);
     color: var(--color-default);

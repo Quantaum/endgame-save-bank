@@ -42,6 +42,9 @@
     --color-endgame: #ffff00;
     --color-endgame-background: #ffff0050;
 
+    --color-alpha: #03fe00;
+    --color-alpha-background: #03fe0050;
+
     --color-default: #d9d9d9;
     --color-default-background: #d9d9d950;
 }
@@ -77,6 +80,9 @@
 
     --color-endgame: #d9b111;
     --color-endgame-background: #d9b11150;
+
+    --color-alpha: #0bb700;
+    --color-alpha-background: #0bb70050;
 
     --color-default: #4f5957;
     --color-default-background: #4f595750;
