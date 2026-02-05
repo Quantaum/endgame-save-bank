@@ -1,9 +1,9 @@
 /* eslint-disable max-len */
 import CategoryGrouped from "./classes/CategoryGrouped";
 import { alphaPreInfinity } from "./alpha-pre-infinity";
-import { alphaPreEternity } from "./alpha-pre-eternity";
-import { alphaPreDilation } from "./alpha-pre-dilation";
-import { alphaPreReality } from "./alpha-pre-reality";
+import { alphaInfinity } from "./alpha-infinity";
+import { alphaEternity } from "./alpha-eternity";
+import { alphaTimeDilation } from "./alpha-time-dilation";
 
 export const alpha = new CategoryGrouped({
     name: "Alpha",
@@ -11,8 +11,8 @@ export const alpha = new CategoryGrouped({
     desc: "After 1.8e308 iM",
     saves: [
         alphaPreInfinity,
-        alphaPreEternity,
-        alphaPreDilation,
-        alphaPreReality,
+        alphaInfinity,
+        alphaEternity,
+        alphaTimeDilation,
     ]
 });

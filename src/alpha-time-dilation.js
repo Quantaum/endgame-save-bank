@@ -1,8 +1,8 @@
 import Group from "./classes/Group";
 import Save from "./classes/Save";
 
-export const alphaPreReality = new Group({
-    name: "Alpha Pre-Reality",
+export const alphaTimeDilation = new Group({
+    name: "Time Dilation",
     theme: "alpha",
     saves: [
         new Save({

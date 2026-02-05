@@ -2,7 +2,7 @@ import Group from "./classes/Group";
 import Save from "./classes/Save";
 
 export const alphaPreInfinity = new Group({
-    name: "Alpha Pre-Infinity",
+    name: "Pre-Infinity",
     theme: "alpha",
     saves: [
         new Save({
