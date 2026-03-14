@@ -16,12 +16,12 @@ export const alphaEternity = new Group({
             data: ""
         }),
         new Save({
-            name: "Purchase 4th Time Dimension",
+            name: "4th Time Dimension",
             author: "Quantaum",
             data: ""
         }),
         new Save({
-            name: "Purchase 3rd Eternity Upgrade",
+            name: "3rd Eternity Upgrade",
             author: "Quantaum",
             data: ""
         }),

@@ -16,7 +16,7 @@ export const alphaTimeDilation = new Group({
             data: ""
         }),
         new Save({
-            name: "Begin Generation of Time Theorems",
+            name: "Time Theorem Generation",
             author: "Quantaum",
             data: ""
         }),

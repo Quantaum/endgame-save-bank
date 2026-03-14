@@ -26,7 +26,7 @@ export const alphaInfinity = new Group({
             data: ""
         }),
         new Save({
-            name: "All Break Infinity Upgrades Purchased",
+            name: "All Break Infinity Upgrades",
             author: "Quantaum",
             data: ""
         }),
