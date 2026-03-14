@@ -198,6 +198,42 @@
     color: var(--background);
 }
 
+.category-theme-alpha-pre-infinity {
+    border-color: var(--color-antimatter);
+    color: var(--color-antimatter);
+}
+
+.category-theme-alpha-pre-infinity-background {
+    background: linear-gradient(to right, var(--color-alpha-background), var(--color-antimatter-background));
+}
+
+.category-theme-alpha-infinity {
+    border-color: var(--color-infinity);
+    color: var(--color-infinity);
+}
+
+.category-theme-alpha-infinity-background {
+    background: linear-gradient(to right, var(--color-alpha-background), var(--color-infinity-background));
+}
+
+.category-theme-alpha-eternity {
+    border-color: var(--color-eternity);
+    color: var(--color-eternity);
+}
+
+.category-theme-alpha-eternity-background {
+    background: linear-gradient(to right, var(--color-alpha-background), var(--color-eternity-background));
+}
+
+.category-theme-alpha-time-dilation {
+    border-color: var(--color-dilation);
+    color: var(--color-dilation);
+}
+
+.category-theme-alpha-time-dilation-background {
+    background: linear-gradient(to right, var(--color-alpha-background), var(--color-dilation-background));
+}
+
 .category-theme-default {
     border-color: var(--color-default);
     color: var(--color-default);
