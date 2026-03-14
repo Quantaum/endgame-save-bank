@@ -3,7 +3,7 @@ import Save from "./classes/Save";
 
 export const alphaInfinity = new Group({
     name: "Infinity",
-    theme: "alpha",
+    theme: "alpha-infinity",
     saves: [
         new Save({
             name: "First Infinity",

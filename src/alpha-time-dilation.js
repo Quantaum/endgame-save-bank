@@ -3,7 +3,7 @@ import Save from "./classes/Save";
 
 export const alphaTimeDilation = new Group({
     name: "Time Dilation",
-    theme: "alpha",
+    theme: "alpha-time-dilation",
     saves: [
         new Save({
             name: "Enter Dilation",
