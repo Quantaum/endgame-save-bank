@@ -234,13 +234,13 @@
     background: linear-gradient(to right, var(--color-alpha-background), var(--color-dilation-background));
 }
 
-.category-theme-cel-dim-expansion {
-    border-color: var(--color-cel-dim-expansion);
-    color: var(--color-cel-dim-expansion);
+.category-theme-cdexpansion {
+    border-color: var(--color-cdexpansion);
+    color: var(--color-cdexpansion);
 }
 
-.category-theme-cel-dim-expansion-background {
-    background-color: var(--color-cel-dim-expansion-background);
+.category-theme-cdexpansion-background {
+    background-color: var(--color-cdexpansion-background);
 }
 
 .category-theme-default {

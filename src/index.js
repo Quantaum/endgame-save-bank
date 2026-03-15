@@ -1,6 +1,6 @@
 import { endgame } from "./endgame";
 import { alpha } from "./alpha";
-import { celDimExpansion } from "./cel-dim-expansion"
+import { celDimExpansion } from "./cdexpansion"
 
 import CategoryGrouped from "./classes/CategoryGrouped";
 import File from "./classes/File";

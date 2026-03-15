@@ -4,7 +4,7 @@ import Save from "./classes/Save";
 
 export const celDimExpansion = new Category({
     name: "CD Expansion",
-    theme: "cel-dim-expansion",
+    theme: "cdexpansion",
     desc: "After beating Alpha (placeholder)",
     saves: [
         new Save({
