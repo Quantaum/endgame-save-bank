@@ -45,6 +45,9 @@
     --color-alpha: #03fe00;
     --color-alpha-background: #03fe0050;
 
+    --color-cdexpansion: #5050f0;
+    --color-cdexpansion-background: #5050f050;
+
     --color-default: #d9d9d9;
     --color-default-background: #d9d9d950;
 }
