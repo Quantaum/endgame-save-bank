@@ -243,6 +243,11 @@
     background-color: var(--color-cdexpansion-background);
 }
 
+.category-theme-cdexpansion.is-active {
+    background-color: var(--color-cdexpansion);
+    color: var(--background);
+}
+
 .category-theme-default {
     border-color: var(--color-default);
     color: var(--color-default);
