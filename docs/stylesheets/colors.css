@@ -45,8 +45,23 @@
     --color-alpha: #03fe00;
     --color-alpha-background: #03fe0050;
 
-    --color-cdexpansion: #5050f0;
-    --color-cdexpansion-background: #5050f050;
+    --color-cdexpansion: #ffff00;
+    --color-cdexpansion-background: #ffff0050;
+
+    --color-slabdrill: #FFFFFF;
+    --color-slabdrill-background: #FFFFFF50;
+
+    --color-celestial-plus: #5050f0;
+    --color-celestial-plus-background: #5050f050;
+
+    --color-expanse: #000000;
+    --color-expanse-background: #00000050;
+
+    --color-existence: #f0f0f0;
+    --color-existence-background: #f0f0f050;
+
+    --color-shattered-reality: #600000;
+    --color-shattered-reality-background: #60000050;
 
     --color-default: #d9d9d9;
     --color-default-background: #d9d9d950;
@@ -87,8 +102,23 @@
     --color-alpha: #0bb700;
     --color-alpha-background: #0bb70050;
 
-    --color-cdexpansion: #5050f0;
-    --color-cdexpansion-background: #5050f050;
+    --color-cdexpansion: #d9b111;
+    --color-cdexpansion-background: #d9b11150;
+
+    --color-slabdrill: #FFFFFF;
+    --color-slabdrill-background: #FFFFFF50;
+
+    --color-celestial-plus: #5050f0;
+    --color-celestial-plus-background: #5050f050;
+
+    --color-expanse: #000000;
+    --color-expanse-background: #00000050;
+
+    --color-existence: #f0f0f0;
+    --color-existence-background: #f0f0f050;
+
+    --color-shattered-reality: #600000;
+    --color-shattered-reality-background: #60000050;
 
     --color-default: #4f5957;
     --color-default-background: #4f595750;

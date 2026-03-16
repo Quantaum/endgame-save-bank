@@ -248,6 +248,34 @@
     color: var(--background);
 }
 
+.category-theme-slabdrill {
+    border-color: var(--color-slabdrill);
+    color: var(--color-slabdrill);
+}
+
+.category-theme-slabdrill-background {
+    background-color: var(--color-slabdrill-background);
+}
+
+.category-theme-slabdrill.is-active {
+    background-color: var(--color-slabdrill);
+    color: var(--background);
+}
+
+.category-theme-expanse {
+    border-color: var(--color-expanse);
+    color: var(--color-expanse);
+}
+
+.category-theme-expanse-background {
+    background-color: var(--color-expanse-background);
+}
+
+.category-theme-expanse.is-active {
+    background-color: var(--color-expanse);
+    color: var(--background);
+}
+
 .category-theme-default {
     border-color: var(--color-default);
     color: var(--color-default);
