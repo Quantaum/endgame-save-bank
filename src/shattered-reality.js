@@ -4,7 +4,7 @@ import Save from "./classes/Save";
 
 export const shatteredReality = new Category({
     name: "Shattered Reality",
-    theme: "shattered-reality",
+    theme: "shatteredreality",
     desc: "idk when this is",
     saves: [
         new Save({

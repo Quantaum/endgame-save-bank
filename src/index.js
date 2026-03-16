@@ -2,6 +2,7 @@ import { endgame } from "./endgame";
 import { alpha } from "./alpha";
 import { celDimExpansion } from "./cdexpansion";
 import { slabdrill } from "./slabdrill";
+import { celestialPlus } from "./celestial-plus";
 import { expanse } from "./expanse";
 import { existence } from "./existence";
 import { shatteredReality } from "./shattered-reality";
@@ -14,6 +15,7 @@ const saves = [
     alpha,
     celDimExpansion,
     slabdrill,
+    celestialPlus,
     expanse,
     existence,
     shatteredReality

@@ -4,7 +4,7 @@ import Save from "./classes/Save";
 
 export const celestialPlus = new Category({
     name: "Celestial Plus",
-    theme: "celestial-plus",
+    theme: "celestialplus",
     desc: "After the 9th Dimension",
     saves: [
         new Save({
