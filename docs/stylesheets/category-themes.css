@@ -263,16 +263,16 @@
 }
 
 .category-theme-celestialplus {
-    border-color: var(--color-celestial-plus);
-    color: var(--color-celestial-plus);
+    border-color: var(--color-celestialplus);
+    color: var(--color-celestialplus);
 }
 
 .category-theme-celestialplus-background {
-    background-color: var(--color-celestial-plus-background);
+    background-color: var(--color-celestialplus-background);
 }
 
 .category-theme-celestialplus.is-active {
-    background-color: var(--color-celestial-plus);
+    background-color: var(--color-celestialplus);
     color: var(--background);
 }
 
@@ -305,16 +305,16 @@
 }
 
 .category-theme-shatteredreality {
-    border-color: var(--color-shattered-reality);
-    color: var(--color-shattered-reality);
+    border-color: var(--color-shatteredreality);
+    color: var(--color-shatteredreality);
 }
 
 .category-theme-shatteredreality-background {
-    background-color: var(--color-shattered-reality-background);
+    background-color: var(--color-shatteredreality-background);
 }
 
 .category-theme-shatteredreality.is-active {
-    background-color: var(--color-shattered-reality);
+    background-color: var(--color-shatteredreality);
     color: var(--background);
 }
 
