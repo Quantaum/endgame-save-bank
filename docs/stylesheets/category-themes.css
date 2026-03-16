@@ -262,6 +262,20 @@
     color: var(--background);
 }
 
+.category-theme-celestialplus {
+    border-color: var(--color-celestial-plus);
+    color: var(--color-celestial-plus);
+}
+
+.category-theme-celestialplus-background {
+    background-color: var(--color-celestial-plus-background);
+}
+
+.category-theme-celestialplus.is-active {
+    background-color: var(--color-celestial-plus);
+    color: var(--background);
+}
+
 .category-theme-expanse {
     border-color: var(--color-expanse);
     color: var(--color-expanse);
@@ -273,6 +287,34 @@
 
 .category-theme-expanse.is-active {
     background-color: var(--color-expanse);
+    color: var(--background);
+}
+
+.category-theme-existence {
+    border-color: var(--color-existence);
+    color: var(--color-existence);
+}
+
+.category-theme-existence-background {
+    background-color: var(--color-existence-background);
+}
+
+.category-theme-existence.is-active {
+    background-color: var(--color-existence);
+    color: var(--background);
+}
+
+.category-theme-shatteredreality {
+    border-color: var(--color-shattered-reality);
+    color: var(--color-shattered-reality);
+}
+
+.category-theme-shatteredreality-background {
+    background-color: var(--color-shattered-reality-background);
+}
+
+.category-theme-shatteredreality.is-active {
+    background-color: var(--color-shattered-reality);
     color: var(--background);
 }
 
