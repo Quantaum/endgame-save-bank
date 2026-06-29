@@ -3,7 +3,7 @@ import Category from "./classes/Category";
 import Save from "./classes/Save";
 
 export const celDimExpansion = new Category({
-    name: "Celestial Dimension Expansion",
+    name: "Cel Dim Expansion",
     theme: "cdexpansion",
     desc: "After defeating Alpha",
     saves: [
