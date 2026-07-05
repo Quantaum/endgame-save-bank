@@ -13,8 +13,8 @@ import File from "./classes/File";
 const saves = [
     endgame,
     alpha,
-    /*celDimExpansion,
-    slabdrill,
+    celDimExpansion,
+    /*slabdrill,
     celestialPlus,
     expanse,
     existence,
