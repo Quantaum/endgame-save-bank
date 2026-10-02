@@ -4,7 +4,8 @@ Vue.component("save-file", {
     },
     data() {
         return {
-            desc: ""
+            desc: "",
+            name: ""
         };
     },
     computed: {
@@ -15,12 +16,13 @@ Vue.component("save-file", {
     methods: {
         updateText() {
             this.desc = this.saveFile.getDesc();
+            this.name = this.saveFile.getName();
         },
         mountInterval() {
             // To save performance
             if (this.saveFile.glitched) {
                 this.interval = setInterval(this.updateText, 50);
-            }  
+            }
         },
         onSaveChange() {
             if (this.interval !== null) {
@@ -33,7 +35,7 @@ Vue.component("save-file", {
     watch: {
         category() {
             this.onSaveChange();
-        },  
+        },
         saveFile() {
             this.onSaveChange();
         }
@@ -45,7 +47,7 @@ Vue.component("save-file", {
     template: `
     <div class="file-con">
         <div class="file-text-con">
-            <div class="file-name">{{saveFile.name}}</div>
+            <div class="file-name">{{name}}</div>
             <div class="pre-formatted file-desc">{{desc}}</div>
             <div v-if="hasAuthor" class="file-author">Submitted by {{saveFile.author}}</div>
         </div>

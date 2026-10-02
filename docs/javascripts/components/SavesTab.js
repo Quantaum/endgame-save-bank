@@ -17,12 +17,13 @@ Vue.component("saves-tab", {
     methods: {
         updateText() {
             this.desc = this.category.getDesc();
+            this.name = this.saveFile.getName();
         },
         mountInterval() {
             // To save performance
             if (this.category.glitched) {
                 this.interval = setInterval(this.updateText, 50);
-            }  
+            }
         }
     },
     watch: {

@@ -25,6 +25,10 @@ class Category {
         return this.glitched ? wordShift.processText(this.desc) : this.desc;
     }
 
+    getName() {
+        return this.glitched ? wordShift.processText(this.name) : this.name;
+    }
+
     getSaveCount() {
         return this.saves.length;
     }

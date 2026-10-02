@@ -15,6 +15,10 @@ class Save {
         return this.glitched ? wordShift.processText(this.desc) : this.desc;
     }
 
+    getName() {
+        return this.glitched ? wordShift.processText(this.name) : this.name;
+    }
+
     copy() {
         File.copyText(this.data);
     }
