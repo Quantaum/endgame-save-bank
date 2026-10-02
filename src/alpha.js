@@ -8,7 +8,7 @@ import { alphaTimeDilation } from "./alpha-time-dilation";
 export const alpha = new CategoryGrouped({
     name: "Alpha",
     theme: "alpha",
-    desc: "After 1.8e308 iM",
+    desc: "The Darkness encroaches... can you find the light?",
     saves: [
         alphaPreInfinity,
         alphaInfinity,
